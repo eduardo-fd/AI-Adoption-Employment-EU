@@ -10,6 +10,7 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 from statsmodels.stats.diagnostic import het_breuschpagan
 import matplotlib.pyplot as plt
 import seaborn as sns
+
 #--------------------------------------------------------------------------------------------------------------------------------------------------------------
 #                                                                       --- DATA IA ADOPTION ---
 
