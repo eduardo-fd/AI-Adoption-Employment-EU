@@ -27,7 +27,7 @@ El avance de la inteligencia artificial (IA) genera incertidumbre y debate sobre
   - Proporción de empresas que utilizan IA por sector y país.
   - Distribución del empleo por sectores (NACE Rev.2) y por ocupaciones (ISCO-08).
   - Indicadores de PIB per cápita, nivel educativo y tasa de paro (controles macroeconómicos).
-- *Nota*: La base de datos principal (`.mdb`) no se incluye en el repositorio por su tamaño, pero se explica cómo obtenerla.
+- *Nota*: La base de datos principal (data) no se incluye en el repositorio por su tamaño, pero se explica cómo obtenerla.
 
 ---
 
