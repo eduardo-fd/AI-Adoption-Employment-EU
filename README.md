@@ -3,7 +3,7 @@
 **Trabajo de Fin de Grado – Grado en Economía, Universitat Autònoma de Barcelona**  
 **Autor:** Eduardo Fernández Dionicio  
 **Fecha de defensa:** 27 de mayo de 2025  
-**Calificación:** 9 (Matrícula de Honor)
+**Calificación:** Matrícula de Honor
 
 ---
 
@@ -66,10 +66,11 @@ El avance de la inteligencia artificial (IA) genera incertidumbre y debate sobre
    - Instalar dependencias desde `requirements.txt`
 2. **Datos:**  
    - Descargar el dataset de Eurostat (2023-2024) y colocarlo en la carpeta `/data`
-3. **Ejecución:**  
-   - Ejecutar el script principal en `/src/data_tfg.py`
-4. **Resultados:**  
-   - Los archivos de salida (tablas y gráficos) se guardan en la carpeta `/outputs`
+3. **Establecer Rutas**
+   - Modificar rutas de los archivos dentro de `/data`
+4. **Ejecución:**  
+   - Ejecutar el script en `/scr/data_tfg.py`
+
 
 ---
 
