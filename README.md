@@ -78,7 +78,7 @@ El avance de la inteligencia artificial (IA) genera incertidumbre y debate sobre
 - **Memoria completa del TFG:** `/docs/TFG-Eduardo Fernández Dionicio.pdf`
 - **Póster:** `/docs/poster_TFG.pdf`
 - **Autor:** Eduardo Fernández Dionicio  
-- [LinkedIn](www.linkedin.com/in/eduardo-fernandez-d)
+- **LinkedIn** [www.linkedin.com/in/eduardo-fernandez-d]
 
 ---
 
