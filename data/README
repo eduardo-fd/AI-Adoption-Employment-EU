@@ -18,6 +18,8 @@ Sigue estos pasos para descargarlo:
 6. mueve el archivo a la carpeta 'data/' de este repositorio en tu ordenador.
 
 Nota:
+- Si quieres ejecutarlo en tu equipo, adapta las rutas a tu ubicación local del archivo de datos 
+
 - Si el archivo descargado tiene un nombre diferente, renómbralo a 'SDMXE_2017-2024 v250409.mdb' para asegurar compatibilidad con el código.
 
 Si tienes dificultades para encontrar el archivo, consulta la documentación de Eurostat o contacta con el autor del proyecto.
