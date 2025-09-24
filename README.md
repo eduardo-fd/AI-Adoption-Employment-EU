@@ -15,8 +15,7 @@ This project studies how **AI adoption** relates to shifts in the **structure of
 
 ---
 
-![Poster Overview](/docs/poster_TFG.pdf)
-![Thesis Overview](/docs/TFG-EN-Eduardo Fernández Dionicio.pdf)
+<img width="2000" height="2831" alt="image" src="https://github.com/user-attachments/assets/c3bbe8fb-14b0-4b84-a5ab-d0d25f64ed76" />
 
 ---
 
