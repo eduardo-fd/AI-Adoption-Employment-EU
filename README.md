@@ -11,31 +11,14 @@ This project studies how **AI adoption** relates to shifts in the **structure of
 - **Data wrangling:** multi-table Eurostat merges, panel shaping, large files.
 - **Modeling:** fixed effects (country, year), **clustered SEs**, sector/occupation interactions.
 - **Visualization:** clear sector/occupation comparisons with 95% CIs.
-- **Reproducibility:** open code, dependencies pinned, documented pipeline.
-- **Stack:** Python (pandas, statsmodels, linearmodels, matplotlib, seaborn), **mdb-tools**.
+- **Stack:** Python (pandas, statsmodels, linearmodels, matplotlib, seaborn).
 
 ---
 
-## Data & Methods (brief)
-- **AI Adoption (`IA_Adoption`)**: % of firms using any AI tech (sector × country × year).
-- **Employment shares**: `Share_Sector` (NACE) and `Share_Occupation` (ISCO-08).
-- **Controls**: real GDP per capita (PPP), tertiary education rate, unemployment rate.
-- **Models**: OLS with **country & year fixed effects**; robust **clustered** SEs.
+![Poster Overview](/docs/poster_TFG.pdf)
+![Thesis Overview](/docs/TFG-EN-Eduardo Fernández Dionicio.pdf)
 
-Note: The script currently uses absolute paths for the .mdb. Update the path in the script to match your local file location.
-
-## Repository
-```
-├── scr/                 # full script
-├── docs/                # thesis PDF and poster
-├── data/                # CSV datasets 
-├── outputs/             # generated tables/figures
-├── requirements.txt
-├── .gitignore
-```
-## Results & Docs
-- Sector & occupation total effects (with 95% CIs), descriptive distributions (2023 vs 2024).
-- Full thesis and poster in /docs/
+---
 
 ## License & Citation
 - MIT License.
