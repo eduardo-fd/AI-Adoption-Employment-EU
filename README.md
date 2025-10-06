@@ -6,7 +6,7 @@
 This project studies how **AI adoption** relates to shifts in the **structure of employment** across Europe (2023–2024), disaggregated by **sectors (NACE Rev.2)** and **occupations (ISCO-08)**. Using **Eurostat** data, I build panel datasets and estimate **fixed-effects** models to assess changes in **relative employment shares**.
 
 ---
-![Presentation Slides](/docs/slides/presentation_EN.pptx)
+![Presentation Slides](/docs/slides/presentation_EN.pdf)
 
 ---
 
