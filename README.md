@@ -6,19 +6,9 @@
 This project studies how **AI adoption** relates to shifts in the **structure of employment** across Europe (2023–2024), disaggregated by **sectors (NACE Rev.2)** and **occupations (ISCO-08)**. Using **Eurostat** data, I build panel datasets and estimate **fixed-effects** models to assess changes in **relative employment shares**.
 
 ---
-
-## Highlights
-- **Data wrangling:** multi-table Eurostat merges, panel shaping, large files.
-- **Modeling:** fixed effects (country, year), **clustered SEs**, sector/occupation interactions.
-- **Visualization:** clear sector/occupation comparisons with 95% CIs.
-- **Stack:** Python (pandas, statsmodels, linearmodels, matplotlib, seaborn).
+![Presentation Slides](/docs/slides/presentation_EN.pdf)
 
 ---
 
-<img width="2000" height="2831" alt="image" src="https://github.com/user-attachments/assets/c3bbe8fb-14b0-4b84-a5ab-d0d25f64ed76" />
-
----
-
-## License & Citation
-- MIT License.
+## Citation
 - Cite as: Fernández Dionicio, E. (2025). Impact of AI Adoption on the Structure of European Employment (2023–2024): An Empirical Analysis by Sectors and Occupations. UAB.
