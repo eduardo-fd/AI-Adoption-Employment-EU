@@ -22,6 +22,8 @@ The objective of this research is to empirically analyze how the adoption of AI 
 
 To achieve this, the central hypothesis is that the adoption of AI will have a heterogeneous effect on employment depending on the predominant type of tasks. In particular, drawing on the theoretical framework of routine vs. non-routine tasks, it is expected that in sectors and occupations intensive in routine tasks, AI adoption will be associated with reductions in employment shares. Conversely, in sectors and occupations intensive in non-routine tasks, AI is likely to act more as a complement to human labor, leading to higher employment shares as AI adoption increases.
 
+---
+
 <img width="1026" height="1487" alt="image" src="https://github.com/user-attachments/assets/84bd8249-7a26-46f7-b577-3dfc46e20c6b" />
 
 ---
